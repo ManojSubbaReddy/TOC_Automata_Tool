@@ -18,7 +18,7 @@ The primary goal of this project is to create a tool that allows easy conversion
 
 This tool will allow users to visualize and simulate how regular expressions  can be transformed into  non-deterministic finite automata, enabling a better understanding of the automata and language theory.
 
-## DFA / NDFA / NDFA - DFA
+## NDFA
   
 - **Nondeterministic Finite Automaton (NDFA or NFA):** A state machine where for each state and input, there may be multiple possible transitions or no transition. NFAs are easier to define but less efficient than DFAs in terms of computational power.
 
